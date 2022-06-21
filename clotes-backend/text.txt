@@ -1,0 +1,6 @@
+Back end:
+- express package: validator
+
+------------------------------------------
+ Front End: 
+react-router-dom concurrently
